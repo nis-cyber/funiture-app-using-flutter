@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1043183492939",
+    "project_id": "furnifind",
+    "storage_bucket": "furnifind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043183492939:android:13895f4d3afaeed774d2ce",
+        "android_client_info": {
+          "package_name": "com.example.furnifind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043183492939-h2221tj13fi7hbcflropbidgs7gsk8g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBupIBZI6YlbAeSi36WplSX8itxEMheX50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043183492939-h2221tj13fi7hbcflropbidgs7gsk8g1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043183492939-cee2c8av2qjo5q6vc9hgnr1dsa40r5bp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.furnifindapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043183492939:android:9269219ad013cc9874d2ce",
+        "android_client_info": {
+          "package_name": "com.example.furnifindapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043183492939-h2221tj13fi7hbcflropbidgs7gsk8g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBupIBZI6YlbAeSi36WplSX8itxEMheX50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043183492939-h2221tj13fi7hbcflropbidgs7gsk8g1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043183492939-cee2c8av2qjo5q6vc9hgnr1dsa40r5bp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.furnifindapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043183492939:android:72070090e5ff901874d2ce",
+        "android_client_info": {
+          "package_name": "com.example.furniture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043183492939-h2221tj13fi7hbcflropbidgs7gsk8g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBupIBZI6YlbAeSi36WplSX8itxEMheX50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043183492939-h2221tj13fi7hbcflropbidgs7gsk8g1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043183492939-cee2c8av2qjo5q6vc9hgnr1dsa40r5bp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.furnifindapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
